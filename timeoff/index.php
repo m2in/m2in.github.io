@@ -19,3 +19,4 @@
     $secondsRemaining -= ($minutesRemaining * SECONDS_PER_MINUTE);     //обновляем переменную
 
     echo("<h3>До окончания распродажи осталось $daysRemaining дней, $hoursRemaining часов, $minutesRemaining минут, $secondsRemaining секунда</h3>"); //печатаем сообщение
+?>
